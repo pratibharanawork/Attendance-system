@@ -45,7 +45,7 @@ Installation step:
 - php artisan migrate
 - php artisan db:seed --class=CreateUsersSeeder
 - php artisan serve
-- Login for admin with password:admin@gmail.com || 123345678
+- Login for admin with password:admin@gmail.com || 12345678
 - Login for user with email Password When a new user craeted from admin dashboard :
 
 
